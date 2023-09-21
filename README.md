@@ -1,3 +1,6 @@
 # Keneth-Martin-Rotation-Frankfurt-I-Swift
-One of Kenneth Martin's Works recreated and Animated in SwiftUI
-Created for the AP-CSP classroom dedicated to Sedat Yalcin
+One of Kenneth Martin's Works recreated and Animated in SwiftUI.
+Created for the AP-CSP classroom dedicated to Sedat Yalcin.
+
+
+
